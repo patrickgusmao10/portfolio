@@ -26,4 +26,4 @@ HTML, CSS, and JavaScript. Published on GitHub Pages through GitHub Actions.
 
 ## 🤝 Connect
 
-[💻 GitHub](https://github.com/patrickgusmao10) ·
+[💻 GitHub](https://github.com/patrickgusmao10) · [💼 LinkedIn](https://www.linkedin.com/in/patrick-gusm%C3%A3o-55385b137/) · [🎬 Letterboxd](https://boxd.it/6OHW3)
